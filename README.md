@@ -35,9 +35,12 @@ Unifi USG router, Unifi AP, Unifi Controller Software
 Gain a good understanding on Security and privacy-related aspects concerning Network Security.
 
 # Credits
-https://github.com/teusink/Home-Security-by-Pi/blob/master/README.md
 https://pi-hole.net/
-
+http://users.telenet.be/MySQLplaylist/pi-hole.pdf
+https://www.opendns.com/home-internet-security/
+https://www.ubnt.com/unifi/unifi-ap/
+https://www.ubuntu.com/server
+https://github.com/teusink/Home-Security-by-Pi/blob/master/README.md
 
 # License
 All the licensing and copyrights of any of the code and applications belong to their respective owners.
