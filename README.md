@@ -1,7 +1,7 @@
-# FamilySecure
+# Project name: FamilySecure
 Online Security and Privacy
 
-# Introduction
+# Description
 The goal of this project is to make a (more) secure home network using the following features: Router, WiFi AP(s), Pi-Hole DNS-resolver,   Client to site VPN-server (2way. home to internet, internet to home). 
 Improvements by new insights during my build, features are either removed or added. Gain a good understanding on Security and privacy-related aspects concerning Network Security.
 
@@ -33,3 +33,11 @@ Unifi USG router, Unifi AP, Unifi Controller Software
 
 # What Really happens on your network
 Gain a good understanding on Security and privacy-related aspects concerning Network Security.
+
+# Credits
+https://github.com/teusink/Home-Security-by-Pi/blob/master/README.md
+https://pi-hole.net/
+
+
+# License
+All the licensing and copyrights of any of the code and applications belong to their respective owners.
